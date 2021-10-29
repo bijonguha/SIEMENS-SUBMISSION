@@ -54,6 +54,8 @@ Seven different Machine Learning models were used for this project.
 
 ![](images/model_comparison_tuning.png)
 
+### CatBoost Feature-Importance chart:
+
 ![](images/feature-importance-pi-chart.png)
 
 
