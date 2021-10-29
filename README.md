@@ -6,7 +6,7 @@ The gas turbine is the engine at the heart of the power plant that produces elec
 
 ### Goal / Objective:
 
-To build Machine learning models that can predict the GT Compressor decay state coefficient and GT Turbine decay state coefficient.
+To build Machine learning models that can predict the GT Compressor decay state coefficient.
 
 ### Outcome: 
 
@@ -14,7 +14,10 @@ Achieved an RMSE(root-mean squared error) score of 0.000844 for our Compressor m
 
 ## **File description:**
 
-- **(GT Compressor)ML model creation and evaluation.ipynb:** The Jupyter notebook where 7 different ML models were evaluated for the GT Compressor decay state coefficient.
+
+- **report.html:** The Exploratory Data Analysis report generated with Pandas-Profiling. Result of which was used on narrowing down on model.
+
+- **siem_bijon_guha_submission.ipynb:** The Jupyter notebook where 7 different ML models were evaluated for the GT Compressor decay state coefficient.
 
 - **CatBoostRegressor_GT_Compressor.pickle:** Pickle file of the CatBoost model for Compressor
 
