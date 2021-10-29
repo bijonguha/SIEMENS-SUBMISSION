@@ -52,6 +52,11 @@ Seven different Machine Learning models were used for this project.
 
 ![](images/model_comparison_compressor.png)
 
+![](images/model_comparison_tuning.png)
+
+![](images/feature-importance-pi-chart.png)
+
+
 ## Conclusion:
 
 CatBoost model performs exceptionally well. It is fast, efficient and simple to implement as well.
