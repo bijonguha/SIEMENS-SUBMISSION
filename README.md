@@ -58,6 +58,12 @@ Seven different Machine Learning models were used for this project.
 
 ![](images/feature-importance-pi-chart.png)
 
+**Top 5 features :**
+- Gas Turbine shaft torque (GTT) [kN m]
+- GT Compressor outlet air temperature (T2) [C]
+- Gas Generator rate of revolutions (GGn) [rpm]
+- HP Turbine exit pressure (P48) [bar]
+- Gas Turbine exhaust gas pressure (Pexh) [bar]
 
 ## Conclusion:
 
